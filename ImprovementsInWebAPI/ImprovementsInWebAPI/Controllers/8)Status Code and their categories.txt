@@ -1,0 +1,9 @@
+﻿Status Code
+	Status code ate issued from the server and they gives the information about the responses.
+	
+	All HTTP response status code are divided into five(5) categories.
+		1xx-Informational response
+		2xx- Successful
+		3xx- Redirection
+		4xx- Client error
+		5xx- Server error

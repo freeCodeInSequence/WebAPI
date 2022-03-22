@@ -1,0 +1,31 @@
+﻿Course Benifits
+
+At the end of this course, you will  be able to
+
+i) Develop the RESTful web API with Asp.Net Core
+ii) Consume the AOIs in Angular application
+iii) Lots of key concepts of Asp.Net Core framework
+
+Important Topics
+
+Fundamentals
+RESTful APIs 
+Middleware 
+Dependency Injection
+Routing 
+Format Response 
+Model Binder 
+Real World Book Store API Application
+Entity Framework core 5.0 
+Consume APIs in Angular Application
+Login and Signup with JWT
+
+PreRequisites
+
+Basic Knowledge of:
+
+CSharp(Interface,Classes,Methods,Data type, etc)
+
+Database(Table, Columns,etc)
+
+Ready to learn and implement new concepts

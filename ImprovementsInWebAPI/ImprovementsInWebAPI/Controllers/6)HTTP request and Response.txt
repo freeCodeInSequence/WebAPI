@@ -1,0 +1,10 @@
+﻿HTTP request and its components 
+	URL
+	Verb(Method)
+	Header/s
+	Body
+	Data
+
+HTTP response and its components 
+	Status Code
+	Header or Multiple Header

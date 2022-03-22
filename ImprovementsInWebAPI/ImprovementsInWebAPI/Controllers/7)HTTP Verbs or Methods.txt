@@ -1,0 +1,21 @@
+﻿Get
+	The Get method is used to retrieve data.
+	Example-Get the book data, Search a book, etc.
+
+Post
+	The Post method is used to make a new entry in the database.
+	Example-Add a new book, etc.
+
+Put
+	The Put method is used to update all the properties of current resource 
+	in the database.
+	Ex- Update all properties (columns) of an existing book, etc.
+
+Patch
+	The Patch method is similar to put but it is used to update partal 
+	properties of current resource in the database.
+	Ex- Update few properties(columns)of an existing book,etc.
+
+Delete
+	The Delete method is used to delete the resource from the database.
+	Ex-Delete an existing book from database, etc.

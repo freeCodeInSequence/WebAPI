@@ -1,0 +1,8 @@
+﻿REST 
+	stands for REpresentation State Transfer
+
+	REST is a combination of couple of principles that must br followed by the Web API.
+	URL Sturcture 
+	HTTP Verbs
+	Status Code 
+	Stateless etc.

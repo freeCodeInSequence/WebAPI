@@ -1,0 +1,30 @@
+﻿i)
+	Websites
+ii)
+	iOS
+iii)
+	Android
+
+	Websites
+So website will communicate with the database 
+
+	iOS
+The iOS Application will communitate with the databeae
+
+	Android
+Similarly Android Application will also communitate with the databeae
+
+Need of Web API (Solution)
+Front end applications can not talk with the databaxe directly. So we needa mediator i.e. API
+Avoid business logic duplication 
+Extend application functionality
+Abstraction
+Security
+
+Need of Web API (Problems)
+
+Duplicate logic for each application.
+Error prone code(Business logic is written in each application.)
+Some fornt end frameworks can not communicate with the database directly.
+Hard to Maintain.
+

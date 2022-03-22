@@ -1,0 +1,8 @@
+﻿What is HTTP
+
+	HTTP stands for Hyper Text Transfer Protocol
+	HTTP is used for the communication between client and the web server
+	
+	The Hypertext Transfer Protocol Is an application layer protocol for distrubuted, 
+	collaborative, hypermedia information systems.
+	e.g. by a mouse click or by tapping the screen in a web browser.
